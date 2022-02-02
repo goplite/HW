@@ -1,1 +1,19 @@
-I don't understand anything stuff 
+Bug ID
+Summary ()[Dwhat, where, when)
+Puthe to find bug
+Actual_result[D[D[D[D[D[ [C[C[C[C[C[C
+Estimate result
+Severity
+[D[A[C[C[C[C[C[C[C[C[C(Bloker[D[D[D[D[b[C[C[C[C[C, critical, major, minor, trivial)
+Pictire or video[D[C[Cof the bug
+Reference to demand[D[D[D[D[D[D[C[C[C[C[C[C
+Bug type
+Priority[D[D[D[D[D[D[Bug [3~[3~p[2~riority
+additional fils[De[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[C[DA[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[D[D[D
+environment[D[D[D[D[D[D[D[D[D[D[D[D[D[D[DУ[DE[C[C[C[C[C[C[C[C[C[C
+Status
+Autor
+Executor
+Comments
+Version SW
+Version [A[Bcorrection
