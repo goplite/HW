@@ -1,0 +1,18 @@
+Bug ID
+Summary (what, where, when)
+Puthe to find bug
+Actual result
+Estimate result
+Severity (bloker, critical, major, minor, trivial)
+Pictire or video of the bug
+Reference to demand
+Bug type
+Bug priority
+Additional file
+Environment
+Status
+Autor
+Executor
+Comments
+Version SW
+Version correction
