@@ -1,0 +1,13 @@
+Name                                                    Status
+1. check opening site                                passed/failed/bloced/skipped/not run
+2. recheck opening site after clothing               passed/failed/bloced/skipped/non run
+3. check all points in menu performence
+4. check button site performance
+5. check all links opening
+6. full in and check all forms in site
+7. check main elements site performence
+8. download documents and check correct downloading
+9. etc
+
+
+
